@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Essa App foi criada estudando com o professor Carlos Duarte do canal “Polimorfismo” no Youtube, março de 2023
+
+Trata-se de um treinamento nos estudos com a linguagen Dart e o fremework Flutter.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
